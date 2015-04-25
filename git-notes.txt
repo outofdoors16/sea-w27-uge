@@ -1,0 +1,1 @@
+git checkout (whatever branch) to switch to that branch
