@@ -2,3 +2,5 @@ Git directories
   working directory
   staging area
   Repository itself
+
+  . files are normally hidden unless using -a flag after ls.
