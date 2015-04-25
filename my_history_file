@@ -1,0 +1,728 @@
+    1  lsb_release -a
+    2  uname -m
+    3  cd~~~
+    4  cd~ wgethttp://c758482.r82.cf2.rackcdn.com/sublime-text_build-3047_amd64.deb
+    5  cd ~wget http://c758482.r82.cf2.rackcdn.com/sublime-text_build-3047_amd64.deb
+    6  cd ~
+    7  cd ~wget http://c758482.r82.cf2.rackcdn.com/sublime-text_build-3047_i386.deb
+    8  sudo add-apt-repository ppa:webupd8team/sublime-text-2
+    9  sudo apt-get update
+   10  sudo apt-get install sublime-text-installer
+   11  sudo add-apt-repository ppa:webupd8team/sublime-text-2
+   12  sudo apt-get install sublime-text
+   13  sudo add-apt-repository ppa:webupd8team/sublime-text-2
+   14  cd ~
+   15  wget http://c758482.r82.cf2.rackcdn.com/sublime-text_biuld-3047_amd64.deb
+   16  subl
+   17  gksu sublime &
+   18  subl
+   19  ls
+   20  ls -l
+   21  ls -l /etc
+   22  sudo ln -s /opt/sublime/sublime_text /usr/local/bin/subl
+   23  subl
+   24  echo $SHELL
+   25  psd
+   26  pwd
+   27  ls
+   28  ls
+   29  ls/
+   30  ls ~
+   31  ~
+   32  ls ~
+   33  ls
+   34  ls ~/Documents
+   35  ../../
+   36  ls ../../
+   37  cd
+   38  cd Documents
+   39  cd /
+   40  pwd
+   41  ls
+   42  /etc
+   43  ls /etc
+   44  cd /etc
+   45  cd /home
+   46  cd
+   47  ../
+   48  ../../
+   49  cd /etc
+   50  /var/log
+   51  ls /var/log
+   52  cd
+   53  ls /bin
+   54  ls /usr/bin
+   55  ~
+   56  cd ~
+   57  cd /~
+   58  cd ~
+   59  ../
+   60  pwd
+   61  ls
+   62  cd /home
+   63  ls Code Fellows
+   64  ls Code\ Fellows
+   65  cd Codefellows
+   66  cd "Code fellows"
+   67  ls /CodeFellows
+   68  ls CodeFellows
+   69  file
+   70  file CodeFellows
+   71  pwd
+   72  ls Documents
+   73  ls CodeFellows
+   74  ls Documents
+   75  pwd
+   76  cd Documents
+   77  pwd
+   78  CodeFellows
+   79  ls CodeFellows
+   80  file
+   81  file ls Documents
+   82  ls -a
+   83  file Documents
+   84  file Hello, world!
+   85  file "Hello, world!"
+   86  file "Hello, World!"
+   87  file CodeFellows
+   88  ls Documents
+   89  file CodeFellows
+   90  pwd
+   91  file Sublime\ Text2
+   92  file SublimeText2
+   93  ls Applications
+   94  ls Directory
+   95  ls directory
+   96  pwd
+   97  ls /home/tatumda
+   98  ls /home/tatumda/downloads
+   99  ls /home/tatumda/Downloads
+  100  ls /home/tatumda/Applications
+  101  ls /home/tatumda
+  102  ls /home/tatumda/Public
+  103  file Sublime Text 2.0.2 x64.tar.bz2
+  104  file "Sublime Text 2.0.2 x64.tar.bz2"
+  105  open demo.html
+  106  cd
+  107  ls
+  108  ls /Documents
+  109  /Documents
+  110  ls /Documents
+  111  file /Documents
+  112  Directory
+  113  /Directory
+  114  ls /Directory
+  115  ls Directory
+  116  ls Documents
+  117  ls CodeFellows
+  118  mkdir projects
+  119  cd
+  120  ls
+  121  ../
+  122  ../Projects
+  123  Projects
+  124  ls /Projects
+  125  ls
+  126  open CodeFellows
+  127  open /CodeFellows
+  128  open greeting.html
+  129  open /greeting.html
+  130  man -k list
+  131  man ls
+  132  man mkdir
+  133  apt-get install git
+  134  ls -la ~/.gitconfig
+  135  apt-get install git
+  136  y
+  137  apt-get install git
+  138  cd
+  139  ls
+  140  subl.
+  141  subl
+  142  sudo apt-get update
+  143  git
+  144  ls
+  145  codeFellows
+  146  cd
+  147  Documents
+  148  CodeFellows
+  149  sudo cd /home/tatumda/CodeFellows
+  150  cd
+  151  ls
+  152  Downloads
+  153  goto Downloads
+  154  pwd
+  155  /home/tatumda/CodeFellows
+  156  /home/tatumda/CodeFellows ls
+  157  ls
+  158  /home/tatumda/CodeFellows/html5Outline.html
+  159  sudo /home/tatumda/CodeFellows/html5Outline.html
+  160  sudo /home/tatumda/CodeFellows/html5Outline.html $ git init
+  161  $ git config --global user.name "Daniel Tatum"
+  162  git config --global user.name "Daniel Tatum"
+  163  git config --global user.email "daniel.b.tatum@gmail.com"
+  164  man
+  165  f
+  166  man
+  167  dir
+  168  CodeFellows
+  169  goto CodeFellows
+  170  cd
+  171  cd..
+  172  cd~
+  173  cd-
+  174  cd -
+  175  cd 
+  176  cd +
+  177  ./html5Outline.html
+  178  ./CodeFellows
+  179  ./html5Outline.html
+  180  man
+  181  man man
+  182  git config --list
+  183  git config user.name
+  184  git
+  185  subl.
+  186  subl
+  187  get-apt node
+  188  get apt node
+  189  getapt node
+  190  apt get node
+  191  apt-get node
+  192  subl.
+  193  .subl
+  194  subl
+  195  sudo apt-get install git
+  196  sudo apt-get update git
+  197  ls
+  198  file
+  199  ce
+  200  cd
+  201  run git
+  202  open git
+  203  subl
+  204  ldd --version
+  205  sudo apt-get update && sudo apt-get dist-upgrade
+  206  Y
+  207  sudo apt-get update && sudo apt-get dist-upgrade
+  208  sudo reboot
+  209  subl
+  210  lsb
+  211  lsb_release
+  212  lsb_release -a
+  213  man
+  214  al
+  215  man
+  216  all
+  217  man
+  218  y
+  219  man
+  220  main
+  221  man
+  222  1
+  223  man
+  224  intro
+  225  man-intro
+  226  man_intro
+  227  manintro
+  228  man intro
+  229  ls
+  230  cd /home/tatumda/Documents
+  231  cd CodeFellows
+  232  cd /CodeFellows
+  233  cd /home/tatumda/CodeFellows
+  234  ls
+  235  short guess2.html
+  236  ./short guess2.html
+  237  ./short_guess2.html
+  238  ./guessinggame.html
+  239  sudo ./guessinggame.html
+  240  xdg-open guessinggame.html
+  241  cd 
+  242  cd/home/tatumda/CodeFellows
+  243  cd/home/tatumda
+  244  cd/home
+  245  cd/tatumda
+  246  cd/shortguess.html
+  247  cd/shortguess
+  248  cd..
+  249  cd-
+  250  cd
+  251  cd /
+  252  cd
+  253  cd/documents
+  254  cd/desktop
+  255  cd/music
+  256  cd/projects
+  257  /CodeFellows
+  258  cd
+  259  /
+  260  //
+  261  root
+  262  tatumda/
+  263  /tatumda
+  264  tatumda
+  265  /home
+  266  /home/tatumda
+  267  /home/tatumda/files
+  268  /home/tatumda/codefellows
+  269  /home/tatumda/CodeFellows
+  270  cwd
+  271  pwd
+  272  /home/tatumda/CodeFellows
+  273  psd
+  274  pwd
+  275  /home/tatumda/CodeFellows
+  276  pwd
+  277  cd
+  278  mkdir bin
+  279  sudo ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/
+  280  subl
+  281  ls
+  282  /usr
+  283  cd /usr
+  284  bin
+  285  /usr/bin
+  286  ls
+  287  subl
+  288  git status
+  289  git init
+  290  /
+  291  git
+  292  ls
+  293  /tatumda/projects
+  294  /tatumda/Documents
+  295  'cd
+  296  cd
+  297  ls
+  298  pwd
+  299  pwd
+  300  /home/tatumda/sublimetext2
+  301  /home/tatumda
+  302  ls
+  303  cd /home/tatumda
+  304  cd /home/tatumda/Documents
+  305  ls
+  306  /home/tatumda
+  307  cd /home/tatumda
+  308  ls
+  309  /projects
+  310  /home/tatumda/projects
+  311  cd /home/tatumda/projects
+  312  ls
+  313  cd /home/tatumda/Documents
+  314  ls
+  315  cd /home/tatumda/CodeFellows
+  316  ls
+  317  race.html
+  318  goto race.html
+  319  get race.html
+  320  ./race.html
+  321  sudo ./race.html
+  322  ./race.html
+  323  sudo ./race.html
+  324  xdg-open race.html
+  325  subl --help
+  326  sublime_text race.html
+  327  sublime_text --project race.html
+  328  sublime_text --project <project>
+  329  sublime_text -n race.html
+  330  sublime_text -n
+  331  sublime_text -n /home/tatumda/CodeFellows/race.html
+  332  sublime_text --project race.html
+  333  subliem_text <project> race.html
+  334  git
+  335  uname
+  336  sudo apt-get update
+  337  sudo apt-get install -y curl
+  338  curl -fsSL http://git.io/Ak1LNQ | sh
+  339  git config user.name
+  340  git config --list
+  341  git status
+  342  cd
+  343  ls
+  344  /tatumda/CodeFellows
+  345  ls
+  346  cd
+  347  /tatumda
+  348  /tatumda/
+  349  /tatumda/home
+  350  /home/tatumda
+  351  /home/tatumda/CodeFellows
+  352  /home/tatumda/CodeFellows/ls
+  353  ls
+  354  help
+  355  man
+  356  man  help
+  357  man man
+  358  cd /home/tatumda
+  359  cd /home/tatumda/CodeFellows
+  360  ls
+  361  git add raceEvents.html
+  362  git status
+  363  git add <race2.js>
+  364  git add race2.js
+  365  git status
+  366  git add race.css
+  367  git status
+  368  git commit -m "Add three files for race project"
+  369  git log
+  370  git remote add origin https://github.com/outofdoors16/race-project.git
+  371  git log
+  372  git push -u origin master
+  373  git log
+  374  cd
+  375  cd /home/tatumda/codeFellows
+  376  cd /home/tatumda/CodeFellows
+  377  ls
+  378  git init
+  379  git status
+  380  git add .raceEvents.html
+  381  git add raceEvents.html
+  382  git status
+  383  git add race2.js
+  384  git status
+  385  git add race.css
+  386  git status
+  387  git commit -m "added revised race with updated jQuery elements"
+  388  git log
+  389  git status
+  390  git push origin master
+  391  git status
+  392  git push
+  393  git log
+  394  git push race-project
+  395  git repository
+  396  git --help
+  397  git show
+  398  git log
+  399  git push
+  400  git push race-project
+  401  git show repository
+  402  git show
+  403  https://github.com/outofdoors16/race-project.git
+  404  git push https://github.com/outofdoors16/race-project.git
+  405  git push
+  406  git remote add
+  407  git remote add -m
+  408  git remote add https://github.com/outofdoors16/race-project
+  409  git remote add origin https://github.com/outofdoors16/race-project
+  410  git commit
+  411  cd /home/tatumda/CodeFellows
+  412  git push
+  413  git push https://github.com/outofdoors16/race-project
+  414  git pull
+  415  git pull https://github.com/outofdoors16/race-project
+  416  git status
+  417  git add
+  418  git pull https://github.com/outofdoors16/race-project
+  419  git status
+  420  git commit
+  421  cd /home/tatumda/CodeFellows
+  422  git commit
+  423  cd /home/tatumda/CodeFellows
+  424  git status
+  425  git commit -m
+  426  git commit -m "trying to update changes in race-project files"
+  427  git push
+  428  git push https://github.com/outofdoors16/race-project
+  429  git pull https://github.com/outofdoors16/race-project
+  430  cd /home/tatumda/CodeFellows
+  431  git pull -m "trying to get files so I can push them back to remote"
+  432  git pull https://github.com/outofdoors16/race-project
+  433  cd /home/tatumda/CodeFellows
+  434  git pull origin master
+  435  git pull https://github.com/outofdoors16/race-project
+  436  cd /home/tatumda/CodeFellows
+  437  git remote add origin https://github.com/outofdoors16/race-project
+  438  git pull
+  439  git pull https://github.com/outofdoors16/race-project master
+  440  cd/home/tatumda/CodeFellows
+  441  cd /home/tatumda/CodeFellows
+  442  git pull master https://github.com/outofdoors16/race-project
+  443  git pull https://github.com/outofdoors16/race-project
+  444  cd /home/tatumda/CodeFellows
+  445  git remote add https://github.com/outofdoors16/race-project
+  446  git remote add -m https://github.com/outofdoors16/race-project
+  447  git remote add --master https://github.com/outofdoors16/race-project
+  448  git log
+  449  git status
+  450  git push
+  451  git pull https://github.com/outofdoors16/race-project
+  452  git remote
+  453  git remote -v
+  454  git remote add race https://github.com/outofdoors16/race-project.git
+  455  git remote
+  456  git clone
+  457  git push race master
+  458  cd /home/tatumda/CodeFellows
+  459  git push race master
+  460  git push origin master
+  461  git pull race master
+  462  git pull origin master
+  463  cd /home/tatumda/CodeFellows
+  464  git fetch race
+  465  git fetch origin
+  466  git log
+  467  git status
+  468  git push origin master
+  469  git show
+  470  cd /home/tatumda/CodeFellows
+  471  git push origin master
+  472  git pull origin master
+  473  cd /home/tatumda/CodeFellows
+  474  git pull origin master -m "Pull to get all files in sync in order to push"
+  475  git pull origin master
+  476  cd /home/tatumda/CodeFellows
+  477  git pull origin master -m"pull to sync to push"
+  478  git pull origin master -m
+  479  git pull origin master
+  480  git remote rename origin race
+  481  git remote race
+  482  git remote show
+  483  git remote race
+  484  git remote -v
+  485  git clone race
+  486  git clone origin
+  487  git clone https://github.com/outofdoors16/race-project.git
+  488  git push origin master
+  489  cd /home/tatumda/CodeFellows
+  490  git add race2.js
+  491  git status
+  492  git commit
+  493  git commit race2.js
+  494  git add raceEvents.html
+  495  git status
+  496  git push race master
+  497  git push origin master
+  498  git pull -m"because"
+  499  git pull race master
+  500  git pull origin master
+  501  ~/.gitconfig
+  502  ~$/.gitconfig
+  503  cat ~/.gitconfig
+  504  Daniel Tatum ~/.gitconfig
+  505  echo $EDITOR
+  506  echo editor
+  507  echo $editor
+  508  git remote add origin https://github.com/outofdoors16/RACE
+  509  git pull origin master
+  510  git push origin master
+  511  cd /home/tatumda/CodeFellows
+  512  git pull origin master
+  513  git init
+  514  pwd
+  515  cd /home/tatumda/.git/
+  516  ls
+  517  /home/tatumda/CodeFellows
+  518  cd /home/tatumda/CodeFellows
+  519  ls
+  520  git init
+  521  cd /home/tatumda/CodeFellows/.git/
+  522  ls
+  523  cd /home/tatumda/CodeFellows
+  524  git pull origin master -m "Pull to sync to push"
+  525  git config --global core.editor "subl -w"
+  526  git pull origin master
+  527  git push race
+  528  git push race master
+  529  git push origin master
+  530  sudo apt-get install pepperflashplugin-nonfree
+  531  sudo update-pepperflashplugin-nonfree --install
+  532  log
+  533  ls
+  534  ls -l
+  535  ;s -a
+  536  ls -a
+  537  ls /Documents
+  538  ls /projects
+  539  ls /local
+  540  ls /.local
+  541  ls /bin
+  542  ls /etc
+  543  clear
+  544  ls dir
+  545  ls /tatumda
+  546  ls /user/tatumda
+  547  ls /user
+  548  ls user
+  549  ls tatumda
+  550  ls/tatumda
+  551  ls ~
+  552  ls /CodeFellows
+  553  pwd
+  554  ls /home/tatumda
+  555  pwd /home/tatumda/CodeFellows
+  556  ls
+  557  ls /CodeFellows
+  558  ls /home/tatumda/CodeFellows
+  559  clear
+  560  pwd
+  561  cd /home/tatumda/CodeFellows
+  562  pwd
+  563  ls
+  564  cd ~
+  565  pwd
+  566  ls
+  567  cd projects
+  568  pwd
+  569  ..
+  570  cd ..
+  571  psd
+  572  pwd
+  573  cd /home
+  574  pwd
+  575  cd ..
+  576  pwd
+  577  clear
+  578  ls
+  579  cd /home/tatumda
+  580  pwd
+  581  ls
+  582  cd /documents
+  583  cd /Documents
+  584  ls
+  585  pwd
+  586  /documents
+  587  cd documents
+  588  cd Documents
+  589  ls
+  590  cd ..
+  591  pwd
+  592  ls
+  593  cd projectgs
+  594  cd projects/
+  595  ls
+  596  cd ..
+  597  pwd
+  598  cd CodeFellows
+  599  ls
+  600  less snake.js
+  601  top
+  602  clear
+  603  sudo apt-get update
+  604  clear
+  605  sudo apt-get upgrade
+  606  clear
+  607  sudo apt-get upgrade
+  608  clear
+  609  pwd
+  610  cd
+  611  pwd
+  612  ls
+  613  cd documents
+  614  cd /documents
+  615  cd documents/
+  616  cd Documents
+  617  ls
+  618  pwd
+  619  cd
+  620  cd /
+  621  pwd
+  622  ls
+  623  ls -t
+  624  ls -l
+  625  subl
+  626  ls t
+  627  ls
+  628  ls -t
+  629  ls -tr
+  630  pwd
+  631  ls -trl
+  632  msn ld
+  633  man ls
+  634  ..
+  635  man ls
+  636  ls -R
+  637  clear
+  638  man ls
+  639  ls -h
+  640  ls -lh
+  641  ls -l
+  642  pwd
+  643  cd ..
+  644  pwd
+  645  cd /home/tatumda
+  646  pwd
+  647  clear
+  648  cd /tmp/
+  649  mkdir my\ folder
+  650  ls
+  651  cd my folder
+  652  cd my\ folder
+  653  ls
+  654  cd ..
+  655  pwd
+  656  cd /home/tatumda
+  657  pwd
+  658  clear
+  659  ls
+  660  ls -l
+  661  cd CodeFellows
+  662  pwd
+  663  clear
+  664  ls
+  665  ls -l
+  666  ls
+  667  CodeFellows
+  668  cd CodeFellows
+  669  ls
+  670  cd ..
+  671  ls
+  672  cd Documents
+  673  ls
+  674  cd ..
+  675  ls
+  676  cd projects
+  677  ls
+  678  cd Documents
+  679  cd ..
+  680  ls
+  681  cd Documents
+  682  ls
+  683  less greeting.js
+  684  ls
+  685  cd ..
+  686  ls
+  687  cd CodeFellows
+  688  ls
+  689  less sort.js
+  690  cd CodeFellows
+  691  ls
+  692  mv CodeFellows RaceProjectFinal
+  693  ls
+  694  cd
+  695  mv /home/tatumda/CodeFellows/CodeFellows /home/tatumda/CodeFellows/RaceProject
+  696  ls
+  697  cd CodeFellows
+  698  ls
+  699  ls ~
+  700  cd ~/Documents
+  701  ls
+  702  cd ~/CodeFellows
+  703  cd RaceFinal
+  704  ls
+  705  cd RaceProject
+  706  ls
+  707  cd ..
+  708  cd RaceProject/
+  709  ls
+  710  cd race2.js
+  711  less race2.js
+  712  cd ~
+  713  cd CodeFellows
+  714  ls
+  715  cd ~
+  716  cd .
+  717  ls
+  718  ls .
+  719  history
+  720  history 10
+  721  history | less
+  722  history
+  723  history | less
+  724  history
+  725  history | less
+  726  history
+  727  history | less
+  728  history > my_history_file
