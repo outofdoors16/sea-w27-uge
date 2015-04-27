@@ -1,0 +1,21 @@
+Git directories
+  working directory
+  staging area
+  Repository itself
+
+  . files are normally hidden unless using -a flag after ls.
+
+  git saves changes between two points/versions rather than a unique full file every time.  this saves disk space and helps git operate more efficiently
+
+  Head always points to the place where you are currently at. 
+
+  git branch. * indicates your current branch.
+
+git checkout master or git checkout (x) branch.
+
+git remotes are a way to connect to a remote repository that more than one person can connect to.
+
+git push -u origin master
+-u is so you don't have to type "origin master" in future pushes. you can just type "git push"
+
+in real life you would do all changes on branches and then pull and merge those to master
